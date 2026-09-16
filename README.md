@@ -38,7 +38,6 @@ I used Power BI to clean, analyze and visualize the data and created an interact
 - ## Key Insights
 
 - Regular customers are the largest customer group with 218 customers.
-- 317 out of 388 customers gave positive feedback.
 - The overall positive feedback rate is 81.70%.
 - The dashboard shows differences in feedback rates across gender, occupation, income, and education groups.
 - Customer type and demographic filters can be used to explore these patterns interactively.
